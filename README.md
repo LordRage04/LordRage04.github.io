@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="img/eclipse.png" type="image/x-icon">
-    <title>Flowers</title>
+    <title>Si lees esto, te amo </title>
 </head>
 
 <body>
